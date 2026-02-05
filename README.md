@@ -11,7 +11,7 @@ El modelo consume los datos directamente desde el repositorio oficial para garan
 ## 📂 Estructura del Repositorio
 * **/notebooks**: Contiene los archivos `.ipynb` con el código de entrenamiento y evaluación.
   * `TransformerLigeros_Balanceado_y_Desbalanceado.ipynb`: Script principal que ejecuta los 6 experimentos (3 niveles de texto x 2 tipos de balanceo).
-* **/data**: Referencia a los conjuntos de datos.
+* **/data**: Referencia a los conjuntos de datos, contiene el dataset data_extended.csv.
 * `requirements.txt`: Listado de librerías necesarias (`transformers`, `torch`, `evaluate`, etc.).
 
 ## 🚀 Ejecución en Google Colab
