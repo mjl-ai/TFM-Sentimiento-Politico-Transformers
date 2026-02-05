@@ -1,0 +1,12 @@
+# Bibliotecas necesarias para la ejecución del TFM
+transformers==4.44.2
+datasets
+evaluate
+accelerate
+scikit-learn
+wordcloud
+ftfy
+unidecode
+pandas
+torch
+matplotlib
